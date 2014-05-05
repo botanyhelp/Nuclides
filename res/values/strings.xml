@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nuclides</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nuclidedata"></string>
+    <string name="nuclidenatdata"></string>
+    <string name="nuclideisodata"></string>
+    <string name="elements">Elements</string> 
+    <string name="elementsbyweight">Elements By Weight</string> 
+    <string name="information">Information</string> 
+    <string name="informationdata">Thanks to the scientists at the labs for discovering and sharing this data!\n\nNuclear and Radiochemistry \nby G. Friedlander, J. W. Kennedy, E. S. Macias, J. M. Miller \nISBN 9780471862550\n\nNational Nuclear Data Center, Brookhaven National Laboratory,\nhttp://www.nndc.bnl.gov/\n\nNuclear Data Center at Japan Atomic Energy Agency (JAEA)\nhttp://wwwndc.jaea.go.jp/\n\nNuclear Data Center, Korea Atomic Energy Research Institute\nhttp://atom.kaeri.re.kr/\n\nNuclear Science Division, Ernest O. Lawrence Berkeley National Laboratory\nhttp://ie.lbl.gov/\n</string>    
+    <string name="informationdatagreen">Naturally occurring isotopes are shown in green.\n</string>    
+    <string name="informationdatared">Other isotopes are shown below in red.\n</string>    
+</resources>
